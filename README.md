@@ -1,5 +1,5 @@
 # AI-Upscaled-Textures-4K
-Upscaled textures through AI for Rimworld. This repository is for 4x upscaled textures. The folders starting with "AI Upscaled Textures - " contain complete mods to use just like steam mods. Other folders only contain upscaled texture files for the relevant mod. To use those, copy-paste the texture folder into a working mod and activate. Dependencies, patches or edits to the About.xml are not necessary.
+Upscaled textures through AI for Rimworld. This repository is for 4x upscaled textures. The folders starting with "AI Upscaled Textures - " contain complete mods to use just like steam mods. Other folders only contain upscaled texture files for their relevant mod. To use those, copy-paste the texture folder into a working mod and activate. Dependencies, patches or edits to the About.xml are not necessary.
 
 Most of the results are absolutely great, but please note that AI has its limitations, mainly on textures that are not very detailed.
 This won't entirely transform the quality of textures designed by the talented artists of this community, but it will most of the time be a visible improvement when it comes to pixelated textures.
