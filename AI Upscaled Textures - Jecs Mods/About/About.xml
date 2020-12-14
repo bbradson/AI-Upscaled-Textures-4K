@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>AI Upscaled Textures - Jec's Mods</name>
+	<packageId>AIRetexture.JecsMods</packageId>
+	<author>Cosmo Corban, Bradson</author>
+	<url></url>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+<description>Upscaled textures through AI for Jecrells Mods and mods that depend on Jec's Tools.
+
+Please note that AI has its limitations, mainly on the textures that are not very detailed.
+This will NOT replace the quality of textures designed by the talented Artist in this community, but at least it could be a cushion for pixelated textures.
+
+Currently included mods:
+- Call of Cthulhu - Cosmic Horrors
+- Call of Cthulhu - Cults
+- Call of Cthulhu - Elder Things
+- Call of Cthulhu - Factions
+- Call of Cthulhu - Straitjackets
+- H.P. Lovecraft Storyteller
+- Industrial Age - Objects and Furniture
+- Jec's Tobacco and Cigarettes
+- Lord of the Rims - Dwarves
+- Lord of the Rims - Elves
+- Lord of the Rims - Ents
+- Lord of the Rims - Hobbits
+- Lord of the Rims - The Third Age
+- Lord of the Rims - Unlimited
+- Lord of the Rims - Wizardry
+- Rim of Madness - Arachnophobia
+- Rim of Madness - Bones
+- Rim of Madness - Bones Enchantment
+- Rim of Madness - Vampires
+- Rim of Madness - Werewolves
+- RimWriter
+- Roads of the Rim
+- Star Wars - Factions
+- Star Wars - Fully Functional Lightsabers
+- Star Wars - The Force</description>
+    <loadAfter>
+        <li>Mlie.StarWarsTheForce</li>
+		<li>Mlie.CallofCthulhuIndustrialAge</li>
+		<li>Mlie.StarWarsFactions</li>
+		<li>Mlie.StarWarsFullyFunctionalLightsabers</li>
+		<li>Kato.Rimofmadness.Vampires</li>
+		<li>Mlie.RimofMadnessWerewolves</li>
+		<li>Mlie.RimofMadnessArachnophobia</li>
+		<li>AIRetexture.Mods</li>
+		<li>Mlie.CallofCthulhuCosmicHorrors</li>
+		<li>Mlie.CallofCthulhuCults</li>
+		<li>Mlie.CallofCthulhuElderThings</li>
+		<li>Mlie.CallofCthulhuFactions</li>
+		<li>Santa.Straitjackets</li>
+		<li>Mlie.HPLovecraftStoryteller</li>
+		<li>Mlie.JecsTobaccoAndCigarettes</li>
+		<li>Mlie.LordoftheRimsDwarves</li>
+		<li>Mlie.LordoftheRimsElves</li>
+		<li>Mlie.LordoftheRimsEnts</li>
+		<li>Mlie.LordoftheRimsHobbits</li>
+		<li>Mlie.LordoftheRimsTheThirdAge</li>
+		<li>Mlie.LordoftheRimsWizardry</li>
+		<li>sihv.rombones</li>
+		<li>supercollidingsuperbutton.anotherbone</li>
+		<li>Mlie.RimWriter</li>
+		<li>Mlie.RoadsOfTheRim</li>
+		<li>placeholder</li>
+    </loadAfter>
+</ModMetaData>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>AI Upscaled Textures - Mods</name>
+	<packageId>AIRetexture.Mods</packageId>
+	<author>Cosmo Corban, Bradson</author>
+	<url></url>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+<description>Upscaled textures through AI for some mods.
+
+Please note that AI has its limitations, mainly on the textures that are not very detailed.
+This will NOT replace the quality of textures designed by the talented Artist in this community, but at least it could be a cushion for pixelated textures.
+
+Currently included mods:
+- A Dog Said... Animal Prosthetics
+- Ancient_Structures(continued)
+- Android tiers
+- Android tiers - TX Series
+- Androids and Androids Expanded (Used Androids Expanded textures for both)
+- Babies and Children
+- Bionic icons
+- Borderlands: The Rim
+- Brain In a Jar
+- Centralized Climate Control
+- Clay Soldier Race
+- Cyber Fauna
+- Doors Expanded
+- GOPNI VanillaHair Replace (Continued)
+- Glass+Lights
+- Hamster Wheel Generator
+- Ikquan Race (Humanoid Fish Alien Race)
+- Infused
+- Kenshi Apparel Pack
+- Kenshi Armory
+- Kenshi Hiver Race
+- Kenshi Shek Race
+- Kenshi Skeleton Race
+- Klickmala Race (Humanoid Insect Alien Race)
+- Loot Boxes
+- LWM's Deep Storage
+- Let's Have a Cat!
+- Misc Robots
+- Misc Robots++
+- Orion's More Mechanoids
+- Pawnmorpher
+- Pawnmorpher - Insectoids
+- Persona Bond Forge
+- Radiology
+- Rainbeau Flambe - Storyteller
+- RimCities
+- RimFortress: Dwarven Plants
+- Rimsenal - Rimhair
+- Roo's Glasses Hairstyles
+- RT Fuse
+- RT Power Switch
+- RT Solar Flare Shield
+- Slave Outfits [1.2] and Slave Outfits Cosmetics [1.2]
+- Slither Race
+- Something Different Wall
+- Star Wars Animal Collection
+- Visible Pants (Fork with textures for Vanilla Apparel Expanded)
+- Won hair_men
+- Won hair_women
+- Xeva's Rimhair
+- [CP] Prisoner Outfit
+- [CP] Retro Joy
+- [JPT] Fertile Fields Makeover
+- [JPT] Soft Warm Beds
+- [KV] RimFridge
+- [SYR] Universal Fermenter</description>
+    <loadAfter>
+        <li>cp.prisoner.outfit</li>
+        <li>rimfridge.kv.rw</li>
+        <li>ancientstructures.velcroboy333</li>
+	    <li>atlas.androidtiers</li>
+		<li>arandomkiwi.androidtierstxserie</li>
+	    <li>babies.and.children</li>
+	    <li>taranchuk.claysoldeirs</li>
+		<li>nanoce.glasslights</li>
+		<li>beelzebelt.ikquan</li>
+    	<li>mlie.gopnivanillahairreplace</li>
+		<li>sharpedo.kenshiapparel</li>
+		<li>sharpedo.kenshihivers</li>
+		<li>sharpedo.kenshishek</li>
+		<li>sharpedo.kenshiskeletons</li>
+		<li>beelzebelt.klickmala</li>
+		<li>lwm.deepstorage</li>
+		<li>usgiyi.slaveoutfits</li>
+		<li>usgiyi.slaveoutfitscosmetic</li>
+		<li>beelzebelt.slither</li>
+        <li>xeonovadan.visiblepants</li>
+		<li>won.hair</li>
+		<li>won2.hair</li>
+		<li>chjees.androids</li>
+		<li>neceros.androidsexpanded</li>
+		<li>jpt.softwarmbeds</li>
+		<li>rimsenal.hair</li>
+		<li>orion.xevarimhair</li>
+		<li>rooboid.glasseshair</li>
+		<li>tachyonite.pawnmorpherpublic</li>
+		<li>tachyonite.pawnmorpher.insects</li>
+		<li>Orion.MoreMechanoids</li>
+		<li>Guy.StarWarsAnimalCollection</li>
+		<li>JPT.FertileFieldsMakeover</li>
+		<li>xedos.personabond</li>
+		<li>Mlie.CentralizedClimateControl</li>
+		<li>ratys.rtfuse</li>
+		<li>ratys.rtpowerswitch</li>
+		<li>ratys.rtsolarflareshield</li>
+		<li>automatic.radiology</li>
+		<li>jecrell.doorsexpanded</li>
+		<li>Haplo.Miscellaneous.Robots</li>
+		<li>Alaestor.MiscRobots.PlusPlus</li>
+		<li>syrchalis.universalfermenter</li>
+		<li>translucency.braininajar</li>
+		<li>CP.Retro.Joy</li>
+		<li>Solaris.HamsterWheelGenerator</li>
+		<li>Kenshi.Armory.Geminingen</li>
+		<li>RainbeauFlambe.StoryTeller.Core</li>
+		<li>automatic.bionicicons</li>
+		<li>Daniledman.CyberFauna</li>
+		<li>notfood.Infused</li>
+		<li>lanilor.lootboxes</li>
+		<li>Cabbage.RimCities</li>
+		<li>dismarzero.VGP.RimFortressDwarvenPlants</li>
+		<li>FLASHPOINT55.SomethingDifferentWall</li>
+		<li>spoonshortage.ADogSaidAnimalProsthetics</li>
+		<li>deon.borderlands</li>
+		<li>placeholder</li>
+    </loadAfter>
+</ModMetaData>

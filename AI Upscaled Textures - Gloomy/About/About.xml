@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>AI Upscaled Textures - Gloomy</name>
+	<packageId>AIRetexture.Gloomy</packageId>
+	<author>Cosmo Corban</author>
+	<url></url>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+<description>Upscaled textures through AI for Gloomy mods.
+
+Please note that AI has its limitations, mainly on the textures that are not very detailed.
+This will NOT replace the quality of textures designed by the talented Artist in this community, but at least it could be a cushion for pixelated textures.
+
+Currently included mods:
+- Gloomy Deco
+- Gloomy Extra - Kitchen
+- Gloomy Hair mk2
+- Gloomy Vanilla Overhaul
+- GloomyFurniture</description>
+    <loadAfter>
+		<li>AIRetexture.Mods</li>
+		<li>dalrae.gloomydeco</li>
+		<li>zymex.gloomyvanillaoverhaul</li>
+		<li>semo583.gloomyhextrahuhkitchen</li>
+		<li>solaris.furniturebase</li>
+		<li>gloomy.gloomyhairmk2</li>
+		<li>placeholder</li>
+    </loadAfter>
+</ModMetaData>
