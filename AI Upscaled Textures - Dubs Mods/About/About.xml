@@ -2,15 +2,12 @@
 <ModMetaData>
 	<name>AI Upscaled Textures - Dubs Mods</name>
 	<packageId>AIRetexture.Rimatomics</packageId>
-	<author>Cosmo Corban</author>
+	<author>Bradson</author>
 	<url></url>
 	<supportedVersions>
 		<li>1.2</li>
 	</supportedVersions>
 <description>Upscaled textures through AI for Rimatomics.
-
-Please note that AI has its limitations, mainly on the textures that are not very detailed.
-This will NOT replace the quality of textures designed by the talented Artist in this community, but at least it could be a cushion for pixelated textures.
 
 Currently included mods:
 - Dubs Bad Hygiene

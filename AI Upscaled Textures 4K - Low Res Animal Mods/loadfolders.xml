@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loadFolders>
+	<v1.2>
+		<li IfModActive="Mlie.LegacyArk">Legacy Ark</li>
+		<li IfModActive="akairo.LetsHaveaCat.vad.VAECatsandDogs">Let's Have a Cat!</li>
+		<li IfModActive="akairo.Pomeranian">Pomeranian</li>
+		<li IfModActive="akairo.SparrowsMOD">SparrowsMOD</li>
+		<li IfModActive="akairo.TANUKI">狸 TANUKI</li>
+		<li IfModActive="SirMashedPotato.MorrowRim">MorrowRim</li>
+		<li IfModActive="forestfey.SpiritWolf">Xen's Spirit Wolf</li>
+		<li IfModActive="forestfey.DireWolf">Dire Wolf</li>
+		<li IfModActive="forestfey.SmilodonPopulatorCaravan">FFSmilodon caravaneer</li>
+		<li IfModActive="forestfey.GermanShepherdCaravan">FFGermanShepherd Caravaneer re-upload</li>
+	</v1.2>
+</loadFolders>

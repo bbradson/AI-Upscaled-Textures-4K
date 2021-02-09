@@ -2,15 +2,12 @@
 <ModMetaData>
 	<name>AI Upscaled Textures - Expanded Animals</name>
 	<packageId>AIRetexture.Animals</packageId>
-	<author>Cosmo Corban, Bradson</author>
+	<author>Bradson</author>
 	<url></url>
 	<supportedVersions>
 		<li>1.2</li>
 	</supportedVersions>
-<description>Upscaled textures through AI for some mods.
-
-Please note that AI has its limitations, mainly on the textures that are not very detailed.
-This will NOT replace the quality of textures designed by the talented Artist in this community, but at least it could be a cushion for pixelated textures.
+<description>Upscaled textures through AI for some animal mods.
 
 Currently included mods:
 - Vanilla Expanded

@@ -2,15 +2,15 @@
 <ModMetaData>
 	<name>AI Upscaled Textures - Complete Expanded Collection</name>
 	<packageId>AIRetexture.Expanded</packageId>
-	<author>Cosmo Corban, Bradson</author>
+	<author>Bradson</author>
 	<url></url>
 	<supportedVersions>
 		<li>1.2</li>
 	</supportedVersions>
-<description>Upscaled textures through AI for some mods.
+<description>Upscaled textures for VE-related mods. Somewhat outdated and messy.
 
-Please note that AI has its limitations, mainly on the textures that are not very detailed.
-This will NOT replace the quality of textures designed by the talented Artist in this community, but at least it could be a cushion for pixelated textures.
+This is a fairly huge collection with several thousand files, and only affects mods that use resolutions of 2x the vanilla one. RAM and VRAM usage is absolutely massive with this many textures upscaled to this kind of high resolution. Anything below 16GB RAM and 8GB VRAM is almost guaranteed to crash here.
+Only use this if you really have a powerful PC and find those textures of Vanilla Expanded to be blurry on your high res monitor.
 
 Currently included mods:
 - Vanilla Expanded

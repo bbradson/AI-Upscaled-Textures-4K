@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loadFolders>
+	<v1.2>
+		<li IfModActive="PrimitiveStorage.velcroboy333">Primitive Storage</li>
+		<li IfModActive="PrimitiveProduction.velcroboy333">Primitive Workbenches</li>
+		<li IfModActive="Nandonalt.SnowyTrees">Snowy Trees</li>
+		<li IfModActive="smashphil.neceros.srtsexpanded">SRTS Expanded</li>
+		<li IfModActive="CP.Detailed.Body.Textures.II">[CP] Detailed Body Textures II</li>
+		<li IfModActive="kikohi.cybernetic">Cybernetic Organism and Neural Network</li>
+		<li IfModActive="roolo.whatthehack">What the hack!</li>
+		<li IfModActive="Ravvy.SRTS.TCF">[RWY]SRTS Expanded The Crimson Fleet</li>
+	</v1.2>
+</loadFolders>

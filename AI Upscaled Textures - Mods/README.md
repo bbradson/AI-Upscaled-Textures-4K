@@ -1,0 +1,61 @@
+# AI-Upscaled-Textures-Mods
+Upscaled textures for lots of various mods. This is, I believe, identical to an older version of Cosmo Corban's AI Upscaled Textures mod. It includes more mods than his current version, but does use a fairly large amount of RAM and isn't well organized.
+
+Currently included mods:
+- A Dog Said... Animal Prosthetics
+- Ancient_Structures(continued)
+- Android tiers
+- Android tiers - TX Series
+- Androids and Androids Expanded (Used Androids Expanded textures for both)
+- Babies and Children
+- Bionic icons
+- Borderlands: The Rim
+- Brain In a Jar
+- Centralized Climate Control
+- Clay Soldier Race
+- Cyber Fauna
+- Doors Expanded
+- GOPNI VanillaHair Replace (Continued)
+- Glass+Lights
+- Hamster Wheel Generator
+- Ikquan Race (Humanoid Fish Alien Race)
+- Infused
+- Kenshi Apparel Pack
+- Kenshi Armory
+- Kenshi Hiver Race
+- Kenshi Shek Race
+- Kenshi Skeleton Race
+- Klickmala Race (Humanoid Insect Alien Race)
+- Loot Boxes
+- LWM's Deep Storage
+- Let's Have a Cat!
+- Misc Robots
+- Misc Robots++
+- Orion's More Mechanoids
+- Pawnmorpher
+- Pawnmorpher - Insectoids
+- Persona Bond Forge
+- Radiology
+- Rainbeau Flambe - Storyteller
+- RimCities
+- RimFortress: Dwarven Plants
+- Rimsenal - Rimhair
+- Roo's Glasses Hairstyles
+- RT Fuse
+- RT Power Switch
+- RT Solar Flare Shield
+- Slave Outfits [1.2] and Slave Outfits Cosmetics [1.2]
+- Slither Race
+- Something Different Wall
+- Star Wars Animal Collection
+- Visible Pants (Fork with textures for Vanilla Apparel Expanded)
+- Won hair_men
+- Won hair_women
+- Xeva's Rimhair
+- [CP] Prisoner Outfit
+- [CP] Retro Joy
+- [JPT] Fertile Fields Makeover
+- [JPT] Soft Warm Beds
+- [KV] RimFridge
+- [SYR] Universal Fermenter
+- possibly several more

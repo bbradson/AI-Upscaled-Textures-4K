@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loadFolders>
+	<v1.2>
+		<li IfModActive="Mlie.CallofCthulhuCosmicHorrors">Call of Cthulhu - Cosmic Horrors (Continued)</li>
+		<li IfModActive="Mlie.CallofCthulhuCults">Call of Cthulhu - Cults (Continued)</li>
+		<li IfModActive="Mlie.CallofCthulhuElderThings">Call of Cthulhu - Elder Things (Continued)</li>
+		<li IfModActive="Mlie.CallofCthulhuFactions">Call of Cthulhu - Factions (Continued)</li>
+		<li IfModActive="Santa.Straitjackets">Call of Cthulhu - Straitjackets 1.1 + 1.2</li>
+		<li IfModActive="Mlie.HPLovecraftStoryteller">H.P. Lovecraft Storyteller (Continued)</li>
+		<li IfModActive="Mlie.CallofCthulhuIndustrialAge">Industrial Age - Objects and Furniture (Continued)</li>
+		<li IfModActive="Mlie.JecsTobaccoAndCigarettes">Jecs Tobacco and Cigarettes (Continued)</li>
+		<li IfModActive="Mlie.LordoftheRimsDwarves">Lord of the Rims - Dwarves (Continued)</li>
+		<li IfModActive="Mlie.LordoftheRimsElves">Lord of the Rims - Elves (Continued)</li>
+		<li IfModActive="Mlie.LordoftheRimsEnts">Lord of the Rims - Ents (Continued)</li>
+		<li IfModActive="Mlie.LordoftheRimsHobbits">Lord of the Rims - Hobbits (Continued)</li>
+		<li IfModActive="Mlie.LordoftheRimsTheThirdAge">Lord of the Rims - The Third Age (Continued)</li>
+		<li IfModActive="Mlie.LordoftheRimsWizardry">Lord of the Rims - Wizardry (Continued)</li>
+		<li IfModActive="Mlie.RimofMadnessArachnophobia">Rim of Madness - Arachnophobia (Continued)</li>
+		<li IfModActive="sihv.rombones">Rim of Madness - Bones</li>
+		<li IfModActive="supercollidingsuperbutton.anotherbone">Rim of Madness - Bones Enchantment</li>
+		<li IfModActive="Kato.Rimofmadness.Vampires">Rim of Madness - Vampires</li>
+		<li IfModActive="Mlie.RimofMadnessWerewolves">Rim of Madness - Werewolves (Continued)</li>
+		<li IfModActive="Mlie.RimWriter">RimWriter - Books, Scrolls, Tablets, and Libraries (Continued)</li>
+		<li IfModActive="Mlie.RoadsOfTheRim">Roads of the Rim (Continued)</li>
+		<li IfModActive="Mlie.StarWarsFactions">Star Wars - Factions (Continued)</li>
+		<li IfModActive="Mlie.StarWarsFullyFunctionalLightsabers">Star Wars - Fully Functional Lightsabers (Continued)</li>
+		<li IfModActive="Mlie.StarWarsTheForce">Star Wars - The Force (Continued)</li>
+	</v1.2>
+</loadFolders>

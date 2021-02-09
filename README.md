@@ -1,8 +1,8 @@
 # AI-Upscaled-Textures-4K
-Upscaled textures through AI for Rimworld. This repository is for 4x upscaled textures. The folders starting with "AI Upscaled Textures - " contain complete mods to use just like steam mods. Other folders only contain upscaled texture files for their relevant mod. To use those, copy-paste the texture folder into a working mod and activate. Dependencies, patches or edits to the About.xml are not necessary.
+Upscaled textures through AI for Rimworld. This repository is for 4x upscaled textures. The folders in here contain complete mods to use just like steam mods, with those having 4K in their name including a loadfolders.xml for efficiently loading only what's actually used ingame, and the others not including said function. As a rule of thumb, either way, 4K textures require a certain amount of extra RAM. AUTOMATIC's high res textures mod is recommended for dds support to help with RAM and load times.
 
-Most of the results are absolutely great, but please note that AI has its limitations, mainly on textures that are not very detailed.
-This won't entirely transform the quality of textures designed by the talented artists of this community, but it will most of the time be a visible improvement when it comes to pixelated textures.
+This AI upscaling generally yields fairly great results anyway, though something looking out of place isn't gonna get magically rimworldified, unfortunately.
+If you're playing with Camera+, these textures should be sharp enough to not look pixelated or blurry when fully zoomed in on a 4K monitor.
 
 Workflow used to achieve this:
 
@@ -20,8 +20,10 @@ Sometimes, ~1% of the time, it'd also throw an error about a broken alpha level,
 The Waifu2x-Extension-Gui shows errors for that happening in the log, and Waifu2x-caffe is used with similar settings to repeat the process for those images in the log.
 https://github.com/lltcggie/waifu2x-caffe
 
-Once upscaling is done and corrected, all images are compressed with pngyu, reducing their file size by roughly ~75% depending on their content.
+Once upscaling is done and corrected, all images are compressed with pinga, reducing their file size by roughly ~75% depending on their content.
+DDS files are generated using ImageMagick with a script I have in another one of my repositories. You just drop it in a folder with textures, run with powershell, and it'll do the job.
 
 Then, before uploading the finished mod, all useless files get removed, as the game would otherwise load them into RAM, even if it doesn't have to.
-This includes PSDs, ZIPs, RARs, 7z, but also transparent dummy files, single-colored dummy files, as well as many other files where upscaling generally doesn't result in visible gains.
-Note here, RAM usage of Rimworld does not equal file size. A single 5000x5000 transparent dummy file can use up half a gb of RAM just by existing, despite Windows showing a file size of a few bytes for the PNG.
+This includes PSDs, ZIPs, RARs, 7z, but also transparent dummy files, single-colored dummy files, as well as many other files where upscaling generally doesn't result in visible gains, like masks for example.
+Note here, RAM usage of Rimworld does not equal file size in the case of PNG files. Those always have to be fully decompressed by Rimworld before being loaded. As a result, a single 5000x5000 transparent dummy file can use up half a gb of RAM just by existing, despite Windows showing a file size of a few bytes for the PNG.
+DDS files get loaded 1:1 as they are, which means they load quick and don't use as much RAM.
